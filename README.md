@@ -1,10 +1,12 @@
 
-# Project Vanity - 3EX
-##External Menu!
-**- Combo Tools**
-**- External Cheat**
-**- Account Checker**
-###Coming Soon!
+## Project Vanity - 3EX
+## External Menu!
+> Combo Tools
+
+> External Cheat 
+
+> Account Checker
+**Coming Soon!**
 
 
 
