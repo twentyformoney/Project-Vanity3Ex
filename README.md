@@ -1,5 +1,5 @@
 
-# Project Vanity - S3X
+# Project Vanity - 3Ex
 External Menu!
 
 Coming Soon!
